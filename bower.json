@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-speed-carousel",
+  "description": "Customized bootstrap carousel.js plugin to have custom transition speed for slides.",
+  "keywords": [    
+    "js",
+    "bootstrap",
+    "carousel",
+    "bootstrap-carousel",
+    "carousel-speed",
+    "bootstrap-carousel-speed",
+    "bootstrap carousel",
+    "bootstrap carousel speed",
+    "bootstrap carousel transition",
+    "bootsrap.js",
+    "carousel.js",
+    "bootstrap 3",
+    "bootstrap3"
+  ],
+  "homepage": "https://github.com/AnupamKhosla/bootstrap-carousel-speed",
+  "license": "UNLICENSED",
+  
+  "main": [
+    "carousel.js"
+  ],
+  "ignore": [    
+    "README.md"    
+  ],
+  "dependencies": {
+    "jquery": "1.9.1 - 3"
+  },
+  "authors": "Anupam Khosla"
+}
