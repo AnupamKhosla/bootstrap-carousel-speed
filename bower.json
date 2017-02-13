@@ -19,14 +19,14 @@
   "homepage": "https://github.com/AnupamKhosla/bootstrap-carousel-speed",
   "license": "UNLICENSED",
   
-  "main": [
-    "scripts/transition.js",
+  "main": [    
     "scripts/carousel.js"
   ],
   "ignore": [    
     "README.md"    
   ],
   "dependencies": {
+    "bootstrap-transition": "latest",
     "jquery": "1.9.1 - 3"
   },
   "authors": "Anupam Khosla"
