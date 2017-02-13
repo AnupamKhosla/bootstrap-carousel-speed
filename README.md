@@ -24,6 +24,7 @@ $('#bslider').carousel({
   TRANSITION_DURATION: 1500 // This is my custom bootstrao property that sets each transitions time
 })
 ```
-Note that transition duration must be same in both css and js.
+Note1: Transition duration must be same in both css and js.
+Note2: transition.js is a dependency of carousel.js, hence has been included within.
 
 
