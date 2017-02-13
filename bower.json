@@ -20,7 +20,7 @@
   "license": "UNLICENSED",
   
   "main": [
-    "app/scripts/carousel.js"
+    "scripts/carousel.js"
   ],
   "ignore": [    
     "README.md"    
